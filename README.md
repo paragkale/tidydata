@@ -30,3 +30,6 @@ My implementation is heavily influenced by David's Course Project FAQ
 
          dt <- read.table("tidydata.txt", header=TRUE)
          View(dt)
+
+
+**There are specific code related comments in the run_analysis.R file**
