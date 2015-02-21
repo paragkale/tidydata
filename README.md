@@ -32,4 +32,7 @@ My implementation is heavily influenced by David's Course Project FAQ
          View(dt)
 
 
+### Note ###
 **There are specific code related comments in the run_analysis.R file**
+
+The script runs correctly in R version 3.1.1, on a 64bit Windows 7 machine.

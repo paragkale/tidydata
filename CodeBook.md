@@ -176,7 +176,7 @@ The following transformations were performed on the original data to create the 
     78. fBodyGyroJerkMagstd
     79. fBodyGyroJerkMagmeanFreq
 
-###Each row has a SubjectID, an Activity Type and vector of 79 values that are the means of the 79 measurements
+**Each row has a SubjectID, an Activity Type and vector of 79 values that are the means of the 79 measurements for the SubjectID-Activity pair. Hence each variable is in one column, each row represents one observation and the entire table represents exactly one observational unit.**
 
 ##Note
 For an in-dept understanding of the measurements, their units and interpretation, please refer the above mentioned publication
